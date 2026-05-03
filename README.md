@@ -1,7 +1,7 @@
 # 💖 Who Knows Me Best? — Quiz Template
 
 A fully reusable, production-ready friendship quiz app built with **Next.js 16 (App Router)**, **TypeScript**, and **Tailwind CSS**.
-
+Preveiw: https://preview-howwell.vercel.app
 Everything configurable lives in one place → `config/site.ts`.
 
 ---
@@ -145,15 +145,13 @@ Then add `ADMIN_PASSWORD` in:
 
 Add your screenshots inside `/public/screenshots` and reference them below:
 
-```md
+
 ![Home]https://cdn.discordapp.com/attachments/1496871968652398644/1500381525059829810/Screenshot_2026-05-03-11-46-29-933-edit_com.android.chrome.jpg?ex=69f83aaf&is=69f6e92f&hm=7b74374b14273f0af02b6cb648800945bf756bf531a944aade84252fc4a027bb&)
 ![Question](https://cdn.discordapp.com/attachments/1496871968652398644/1500381524825215027/Screenshot_2026-05-03-11-46-49-245-edit_com.android.chrome.jpg?ex=69f83aaf&is=69f6e92f&hm=159cbd11370f7c25eefa5c50d408d28e2dd7707db27832c6d41fb2c9d4de435f&)
 ![Result](https://cdn.discordapp.com/attachments/1496871968652398644/1500381524250333204/Screenshot_2026-05-03-11-47-16-582-edit_com.android.chrome.jpg?ex=69f83aaf&is=69f6e92f&hm=ea3464db4323f07c5c4da10177aafeadd437e42e2cbb17c273a79d1ef0c08aaa&)
 ![Certificate](https://cdn.discordapp.com/attachments/1496871968652398644/1500381523956858941/Screenshot_2026-05-03-11-47-28-848-edit_com.android.chrome.jpg?ex=69f83aaf&is=69f6e92f&hm=f67553bf21a5ada08455b9c7e4358df0ed10d113941edfd80a2b491d1371c46c&)
 ![Admin](phttps://cdn.discordapp.com/attachments/1496871968652398644/1500381523613057054/Screenshot_2026-05-03-11-48-16-699-edit_com.android.chrome.jpg?ex=69f83aae&is=69f6e92e&hm=9a47247b8c092b25675da7edf9d610b6479ee97220e73d698e69c1938b0f4fe3&)
-```
 
-👉 Make sure filenames match your actual images.
 
 ---
 
@@ -177,8 +175,8 @@ Add your screenshots inside `/public/screenshots` and reference them below:
 
 ## ❤️ Credits
 
-Built by Vish
-👉 https://github.com/getv1xh
+Built by Vish 
+👉 https://github.com/getv1xh | hello@vishlabs.xyz
 
 ---
 
