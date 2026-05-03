@@ -1,0 +1,92 @@
+[
+  {
+    "id": "q1",
+    "question": "What's my go-to comfort food when I'm sad?",
+    "options": ["Pizza", "Ice cream", "Ramen noodles", "Chocolate"],
+    "correctAnswer": 2
+  },
+  {
+    "id": "q2",
+    "question": "Which season is my absolute favorite?",
+    "options": ["Spring", "Summer", "Autumn", "Winter"],
+    "correctAnswer": 3
+  },
+  {
+    "id": "q3",
+    "question": "What's my biggest pet peeve?",
+    "options": ["People being late", "Loud chewing", "Unsolicited advice", "Slow Wi-Fi"],
+    "correctAnswer": 0
+  },
+  {
+    "id": "q4",
+    "question": "How do I usually spend my Sunday mornings?",
+    "options": ["At the gym", "Sleeping in", "Reading or journaling", "Brunch with friends"],
+    "correctAnswer": 1
+  },
+  {
+    "id": "q5",
+    "question": "Which of these best describes my fashion style?",
+    "options": ["Chic & minimalist", "Cozy & casual", "Bold & expressive", "Sporty & practical"],
+    "correctAnswer": 1
+  },
+  {
+    "id": "q6",
+    "question": "What's my love language?",
+    "options": ["Words of affirmation", "Physical touch", "Quality time", "Acts of service"],
+    "correctAnswer": 2
+  },
+  {
+    "id": "q7",
+    "question": "If I could travel anywhere tomorrow, I'd go to…",
+    "options": ["Tokyo, Japan", "Paris, France", "Santorini, Greece", "New York, USA"],
+    "correctAnswer": 0
+  },
+  {
+    "id": "q8",
+    "question": "What type of movies do I prefer?",
+    "options": ["Romantic comedies", "Thrillers & mystery", "Animated films", "Sci-fi & fantasy"],
+    "correctAnswer": 3
+  },
+  {
+    "id": "q9",
+    "question": "What do I usually do when I can't sleep?",
+    "options": ["Scroll social media", "Listen to music or podcasts", "Watch TV shows", "Read a book"],
+    "correctAnswer": 1
+  },
+  {
+    "id": "q10",
+    "question": "What's my biggest fear?",
+    "options": ["Heights", "Being alone", "Failure", "Losing loved ones"],
+    "correctAnswer": 3
+  },
+  {
+    "id": "q11",
+    "question": "How do I handle stress?",
+    "options": ["I vent to someone I trust", "I go for a walk or exercise", "I listen to music and zone out", "I sleep it off"],
+    "correctAnswer": 2
+  },
+  {
+    "id": "q12",
+    "question": "What's my morning drink of choice?",
+    "options": ["Black coffee", "Matcha latte", "Chai tea", "Orange juice"],
+    "correctAnswer": 1
+  },
+  {
+    "id": "q13",
+    "question": "How would my close friends describe me in one word?",
+    "options": ["Loyal", "Funny", "Ambitious", "Caring"],
+    "correctAnswer": 3
+  },
+  {
+    "id": "q14",
+    "question": "What kind of music do I listen to most?",
+    "options": ["Indie / Alternative", "Pop", "Hip-hop / R&B", "Classical / Lo-fi"],
+    "correctAnswer": 0
+  },
+  {
+    "id": "q15",
+    "question": "What's my ideal way to celebrate my birthday?",
+    "options": ["Big party with everyone", "Dinner with close friends only", "Solo trip or adventure", "Cozy day at home"],
+    "correctAnswer": 1
+  }
+]
